@@ -1,5 +1,4 @@
 ## Hi, I'm Nihma 👋  
-![Nihma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihma-2002&show_icons=true&theme=default)
 
 💼 **Data Analyst** | Python • SQL • Power BI  
 📊 Experience in **Order-to-Cash & business analytics**  
