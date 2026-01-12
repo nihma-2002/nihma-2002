@@ -23,4 +23,4 @@ Actively seeking Data analytics roles where I can continue developing my technic
 - Data-driven decision making
 - AI/ML
 
-📫 Reach me on LinkedIn: [www.linkedin.com/in/nihma-shanavas-7abc]
+📫 Reach me on LinkedIn: www.linkedin.com/in/nihma-shanavas-7abc
