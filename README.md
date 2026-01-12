@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Nihma 👋
 
-<!--
-**nihma-2002/nihma-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in Python, SQL, and Power BI.  
+Recently worked in Order-to-Cash analytics and building data projects using real-world datasets.
+Actively seeking Data analytics roles where I can continue developing my technical skills while contributing to data-driven decision-making.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
+- Excel
+- Data Cleaning & Analysis
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Projects
+- Retail Cashflow Analytics (Python, SQL, Power BI)
+- Customer Segmentation & Retention Analysis
+
+### 🌍 Interests
+- Business & Financial Analytics
+- Data Quality Analytics
+- Healthcare-focused Data & Analytics
+- Data-driven decision making
+- AI/ML
+
+📫 Reach me on LinkedIn: [www.linkedin.com/in/nihma-shanavas-7abc]
