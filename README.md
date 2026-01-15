@@ -1,28 +1,25 @@
 ## Hi, I'm Nihma 👋  
 
-💼 **Data Analyst** | Python • SQL • Power BI  
-📊 Experience in **Order-to-Cash & business analytics**  
-🌍 Interested in analytics roles focused on real-world business problems  
+💼 **Data Analyst | Aspiring Data Scientist**  
+📊 Python • SQL • Power BI • Machine Learning  
+🌍 Interested in analytics and data science roles focused on real-world business and behavioral problems  
 
 ---
 
 ### 🔧 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20ERP-F80000?style=flat&logo=oracle&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-6A5ACD?style=flat)
-
-- **Programming & Analysis:** Python, SQL  
-- **Data Analysis & Visualization:** Power BI, Excel  
-- **Enterprise Tools:** Oracle ERP  
-- **AI / ML:** Basic machine learning concepts, data-driven modeling, exploratory AI/ML use cases  
-- **Core Strengths:** Data cleaning, analysis, reporting, insight generation  
+- **Programming & Data Analysis:** Python, SQL  
+- **Data Visualization & Reporting:** Power BI, Excel  
+- **Enterprise Systems:** Oracle ERP (Order-to-Cash processes)  
+- **Data Science & ML:** Clustering, classification, feature engineering, model evaluation  
+- **Core Strengths:** Data cleaning, exploratory analysis, insight generation, translating data into business decisions  
 
 ---
 
 ### 📌 Featured Repositories
+🎮 **Valorant Playstyle Analysis & Agent Recommendation System**
+ML-based playstyle discovery and role-based agent recommendation using synthetic gameplay data  
+🔗 https://github.com/nihma-2002/valorant-ml-nlp-project
+
 📈 **Retail Cashflow Analytics**  
 Order-to-Cash analysis using Python, SQL, and Power BI  
 
@@ -35,10 +32,11 @@ Exploring AI-assisted workflows for data analysis
 ---
 
 ### 📊 What I Work On
-- Financial and business analytics projects  
-- Data exploration and visualization  
-- Applying analytics to operational and decision-making scenarios  
-
+- Business and financial analytics  
+- Data science projects involving behavioral analysis  
+- Machine learning for pattern discovery and decision support  
+- Data visualization and storytelling for stakeholders
+- 
 ---
 
 ### 📫 Connect With Me
