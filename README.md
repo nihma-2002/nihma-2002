@@ -36,7 +36,7 @@ Exploring AI-assisted workflows for data analysis
 - Data science projects involving behavioral analysis  
 - Machine learning for pattern discovery and decision support  
 - Data visualization and storytelling for stakeholders
-- 
+  
 ---
 
 ### 📫 Connect With Me
